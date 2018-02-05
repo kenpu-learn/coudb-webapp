@@ -1,0 +1,49 @@
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.279 seconds.[0m
+[36m----  Could not Read  src/myapp/core.cljs   line:53 ----[0m
+
+  [1m/home/kenpu/clones/coudb-webapp/myapp/src/myapp/core.cljs [line 53, col 1] Unexpected EOF while reading item 1 of list, starting at line 52 and column 1.[0m
+
+[36m----  Reader Error : Please see src/myapp/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.232 seconds.[0m
+[36m----  Could not Analyze  src/myapp/core.cljs  ----[0m
+
+  [1mNo such namespace: myapp.db, could not locate myapp/db.cljs, myapp/db.cljc, or JavaScript source providing "myapp.db" [0m
+
+[36m----  Analysis Error : Please see src/myapp/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.342 seconds.[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.389 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/myapp/db.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.348 seconds.[0m
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/myapp/db.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.348 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/db.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.313 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.333 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.377 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.357 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.326 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/db.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.328 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/db.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.306 seconds.[0m
+notifying browser that file changed:  public/js/out/myapp/db.js
